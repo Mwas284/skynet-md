@@ -1,13 +1,13 @@
-# 𝐬𝐤𝐲𝐧𝐞𝐭_𝐦𝐝-𝐯𝟏
+# Blanco_𝐦𝐝-𝐯𝟏
   <body>
     <p align="center"> Introducing ❝skynet 𝐭𝐞𝐜𝐡❞, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
     <p align="center">
-  <a href="https://github.com/Mwas284/skynet-md">
+  <a href="https://github.com/Bennyblanco9116/skynet-md">
     <img alt="="300"
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=skynet-𝐀𝐈;WHATSAPP+BOT;CREATED+BY+mwas" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=skynet-𝐀𝐈;WHATSAPP+BOT;CREATED+BY+Blanco" alt="Typing SVG" /></a>
   </p>
   
-<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝐭𝐨 𝐬𝐤𝐲𝐧𝐞𝐭_𝐦𝐝-𝐯𝟏🔥</h1>
+<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝐭𝐨 blanco_𝐦𝐝-𝐯𝟏🔥</h1>
 <br>
 <div align="center">
 <img src="https://i.imgur.com/jx17oHT.gif">
@@ -22,13 +22,13 @@
   <h1 align="center"> 𝐬𝐤𝐲𝐧𝐞𝐭 BoT (Beta)</h1>
 
 <p align="center"> 
-  Hi there, I'm "skynet_md-v1," a versatile WhatsApp bot created and reprogrammed by mwas to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
+  Hi there, I'm "skynet_md-v1," a versatile WhatsApp bot created and reprogrammed by blanco to perform a wide array of functions based on WhatsApp Multi-Device (MD) Support.
   
-<h4><font size="2"><a href="https://wa.me/254795363396yohyoh+ˢᵏʸⁿᵉᵗ"><font color="green">𝕤𝕜𝕪𝕟𝕖𝕥 𝕞𝕕 𝕓𝕠𝕥</font>
+<h4><font size="2"><a href="https://wa.me/254740915718yohyoh+ˢᵏʸⁿᵉᵗ"><font color="green">𝕤𝕜𝕪𝕟𝕖𝕥 𝕞𝕕 𝕓𝕠𝕥</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/bri_an1380?igsh=MXY3Nm16Z29sbmk1dA=="><font color="green">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://www.instagram.com/blanco_dorll?igsh=MXY3Nm16Z29sbmk1dA=="><font color="green">FOLLOW INSTAGRAM</font>
 </h4>
-<h4><font size="2"><a href="mwasmd"><font color="purple">TELEGRAM</font>          
+<h4><font size="2"><a href="blanco md"><font color="purple">TELEGRAM</font>          
 </p>
 </p>
 <a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
@@ -38,7 +38,7 @@
 </p>
 <p align="center">
 </p>
-- My Name 𝐬𝐤𝐲𝐧𝐞𝐭_𝐦𝐝-𝐯𝟏
+- My Name Blanco_𝐦𝐝-𝐯𝟏
 </p>
 - Hello All  🤖
 <br>
@@ -47,13 +47,13 @@
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
-<p align="center"><a href="https://github.com/Mwas284/skynet-md"><img src=""></a></p>
+<p align="center"><a href="https://github.com/Bennyblanco9116/skynet-md"><img src=""></a></p>
 </div>
   
   <h2 align="center"> 🔰 Tap Here To Fork 🔰 </h2>
 
 <h2 align="center">
-  <a href="https://github.com/Mwas284/skynet-md">
+  <a href="https://github.com/Bennyblanco9116/skynet-md">
     <img src="https://img.shields.io/badge/FORK skynet md-h?color=red&style=for-the-badge&logo=stackshare" />
     
 
@@ -81,7 +81,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mwas284/skynet-md/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bennyblanco9116/skynet-md/)
 
 ## For Termux
 ```ts
@@ -112,16 +112,16 @@ npm start
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 > 
 >   ## ``Support Group``
- [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/LNYsNPdpLy130W7bqMtXeW) 
+ [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=red)](https://chat.whatsapp.com/DQ6KNRlDuY0KJYJegr5JcZ) 
 -----  
-[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk) 
+[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DQ6KNRlDuY0KJYJegr5JcZ) 
 -----
 
-global.Owner = ["+254795363396"];
-global.OwnerNumber = ["254795363396"];
-global.ownertag = ["254795363396"];
-global.OwnerName = "mwas";
-global.BotName = "𝐒𝐤𝐲𝐧𝐞𝐭𝐦𝐝";
+global.Owner = ["+254740915718"];
+global.OwnerNumber = ["254740915718"];
+global.ownertag = ["254740915718"];
+global.OwnerName = "blanco";
+global.BotName = "Blanco-bot-𝐦𝐝";
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
