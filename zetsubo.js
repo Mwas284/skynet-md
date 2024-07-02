@@ -803,7 +803,7 @@ await loading()
 ║𖥂 pushmenu
 │┗⊱
 ┗━━⬣  ⿻ ✇⚚ 𝑺𝑲𝒀𝑵𝑬𝑻_𝑴𝑫𝑽1 ⚚✇  ⿻  
-`/*try {
+/*try {
 let msg = generateWAMessageFromContent(from, {
   viewOnceMessage: {
     message: {
@@ -816,13 +816,13 @@ let msg = generateWAMessageFromContent(from, {
             text: menutxt
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "𝑺𝑲𝒀𝑵𝑬𝑻_𝑴𝑫𝑽1"
+            text: "Classic-v3-BUG"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image : { url: "https://telegra.ph/file/6dfde4263655a81572a68.jpg" }}, { upload: zetsubo.waUploadToServer})),
                   title: ``,
                   gifPlayback: true,
-                  subtitle: "michu",
+                  subtitle: "𝕶𝖎𝖓𝖌 𝕾𝖆𝖓",
                   hasMediaAttachment: false
                 }),
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
@@ -831,7 +831,7 @@ let msg = generateWAMessageFromContent(from, {
                 "name": "single_select",
                 "buttonParamsJson":
 `{"title":"MENU🗒️",
-"sections":[{"title":" 🎩𝑺𝑲𝒀𝑵𝑬𝑻_𝑴𝑫𝑽1🧣",
+"sections":[{"title":" 🎩𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆🧣",
 "rows":[{"header":"🔖 𝙰𝙳𝙳 𝙼𝙴𝙽𝚄 🔖",
 "title":"",
 "description":"Addmenu 🕷️",
@@ -897,20 +897,24 @@ let msg = generateWAMessageFromContent(from, {
                       },
 		      {
                         "name": "cta_url",
-                        "buttonParamsJson": "{\"display_text\":\"GROUP 📍 \",\"url\":\"https://chat.whatsapp.com/LNYsNPdpLy130W7bqMtXeW\",\"merchant_url\":\"https://chat.whatsapp.com/LNYsNPdpLy130W7bqMtXeW\"}"
+                        "buttonParamsJson": "{\"display_text\":\"𝐂𝐡𝐚𝐧𝐧𝐞𝐥📍 \",\"url\":\"https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\",\"merchant_url\":\"https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\"}"
 		      },
 		      {
                        "name": "cta_url",
-                        "buttonParamsJson": "{\"display_text\":\"𝐎𝐰𝐧𝐞𝐫👤 \",\"url\":\"https://wa.me/+254794451471?text=Hello+King+Sam\",\"merchant_url\":\"https://wa.me/+254794451471?text=Hello+michu\"}"
+                        "buttonParamsJson": "{\"display_text\":\"𝐎𝐰𝐧𝐞𝐫👤 \",\"url\":\"https://wa.me/+254742491666?text=Hello+King+Sam\",\"merchant_url\":\"https://wa.me/+254742491666?text=Hello+King+Sam\"}"
 		      },
 		      {
+                        "name": "cta_url",
+                        "buttonParamsJson": "{\"display_text\":\"𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 📺\",\"url\":\"https://youtube.com/@king_sam_hub\",\"merchant_url\":\"https://youtube.com/@king_sam_hub\"}"
+		}],
+          }),
           contextInfo: {
                   mentionedJid: [m.sender],
                   forwardingScore: 999,                                         
 		  isForwarded: true,
                   forwardedNewsletterMessageInfo: {
                   newsletterJid: '120363288746972771@newsleter',
-                  newsletterName: "𝑺𝑲𝒀𝑵𝑬𝑻_𝑴𝑫𝑽1",
+                  newsletterName: "Classic-v3-BUG",
                   serverMessageId: 143
                 }
                 }
@@ -941,7 +945,7 @@ let msg = generateWAMessageFromContent(m.key.remoteJid, {
                     text: menutxt,
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "michu"
+                    text: "King Sam"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
 		    ...(await prepareWAMessageMedia({ image: { url: 'https://telegra.ph/file/6dfde4263655a81572a68.jpg' } }, { upload: zetsubo.waUploadToServer })),
@@ -965,12 +969,22 @@ let msg = generateWAMessageFromContent(m.key.remoteJid, {
 			},
 		      {
                         "name": "cta_url",
-                        "buttonParamsJson": "{\"display_text\":\"GROUP 📍 \",\"url\":\"https://chat.whatsapp.com/LNYsNPdpLy130W7bqMtXeW\",\"merchant_url\":\"https://chat.whatsapp.com/LNYsNPdpLy130W7bqMtXeW\"}"
+                        "buttonParamsJson": "{\"display_text\":\"𝐂𝐡𝐚𝐧𝐧𝐞𝐥📍 \",\"url\":\"https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\",\"merchant_url\":\"https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\"}"
 		      },
 		      {
                        "name": "cta_url",
-                        "buttonParamsJson": "{\"display_text\":\"𝐎𝐰𝐧𝐞𝐫👤 \",\"url\":\"https://wa.me/+254742491666?text=Hello+michu\",\"merchant_url\":\"https://wa.me/+254794451471?text=Hello+michu\"}"
+                        "buttonParamsJson": "{\"display_text\":\"𝐎𝐰𝐧𝐞𝐫👤 \",\"url\":\"https://wa.me/+254742491666?text=Hello+King+Sam\",\"merchant_url\":\"https://wa.me/+254742491666?text=Hello+King+Sam\"}"
 		      },
+		      {
+                        "name": "cta_url",
+                        "buttonParamsJson": "{\"display_text\":\"𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 📺\",\"url\":\"https://youtube.com/@king_sam_hub\",\"merchant_url\":\"https://youtube.com/@king_sam_hub\"}"
+		      },
+                    ]
+                  })
+                })
+              }
+            }
+          }, {});
 
           if (!msg || !msg.key || !msg.key.remoteJid || !msg.key.id) {
             const errorMessage = 'Error: Invalid message key.';
@@ -988,7 +1002,7 @@ let msg = generateWAMessageFromContent(m.key.remoteJid, {
 } 
 break
 //=================================================//
-case 'michu': {
+case 'taira': {
 try {
 let msg = generateWAMessageFromContent(m.key.remoteJid, {
             viewOnceMessage: {
@@ -1002,12 +1016,12 @@ let msg = generateWAMessageFromContent(m.key.remoteJid, {
                     text: "Click Me 🚀",
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "King Sam"
+                    text: "𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 "
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
 		   ...(await prepareWAMessageMedia({ image: { url: 'https://telegra.ph/file/6dfde4263655a81572a68.jpg' } }, { upload: zetsubo.waUploadToServer })),
                     title: "",
-                    subtitle: "𝑺𝑲𝒀𝑵𝑬𝑻_𝑴𝑫𝑽1",
+                    subtitle: "Classic-v3-BUG",
                     hasMediaAttachment: false
                   }),
                   nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
